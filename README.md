@@ -5,6 +5,7 @@ I created This Project reson was display & checking develop localhost OGP tag Ch
 ## Policy
 
 * Secure ( Never Send external service )
+* Simple ( No complex features )
 * OSS ( Licensed under the Apache License, Version 2.0 )
 
 ## How to use
